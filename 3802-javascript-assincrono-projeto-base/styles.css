@@ -22,5 +22,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: start;
-    
+
+    height: 100vh;
+    gap: 27px;
+    padding: 56px 0;
+}
+
+aside {
+    background-color: var(--itens-background);
+    border-radius: 10px;
+    height: 100%;
+    padding: 40px 16px;
+    text-align: center;
 }
