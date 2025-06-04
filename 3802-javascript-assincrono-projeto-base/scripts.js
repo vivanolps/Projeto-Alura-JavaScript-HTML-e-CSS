@@ -127,3 +127,4 @@ botaoDescartar.addEventListener("click", (evento) => {
 
     listaTags.innerHTML = "";
 })
+/* Conclusão do projeto */
